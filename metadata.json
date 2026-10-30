@@ -1,0 +1,6 @@
+{
+  "name": "Brae CFD — interFoam Dam Break Solver",
+  "description": "Interactive 2D Volume-of-Fluid (VoF) multiphase CFD simulation of the Kleefsman et al. (2005) Dam Break over an Obstacle benchmark with real-time P1 impact pressure telemetry and wave gauges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
